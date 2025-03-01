@@ -1,7 +1,8 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 wcjiang/linux-command:latest 
+hanxi/xiaomusic:latest
+Koenkk/zigbee2mqtt:latest
+zigbee2mqtt/hassio-zigbee2mqtt:latest
+Koenkk/zigbee2mqtt.io:latest
+imsyy/DailyHotApi:latest
+ChineseSubFinder/ChineseSubFinder:latest
+Jackett/Jackett:latest
