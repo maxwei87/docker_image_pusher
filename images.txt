@@ -1,8 +1,7 @@
 wcjiang/linux-command:latest 
 hanxi/xiaomusic:latest
-Koenkk/zigbee2mqtt:latest
 zigbee2mqtt/hassio-zigbee2mqtt:latest
-Koenkk/zigbee2mqtt.io:latest
 imsyy/DailyHotApi:latest
 ChineseSubFinder/ChineseSubFinder:latest
 Jackett/Jackett:latest
+koenkk/zigbee2mqtt:latest
